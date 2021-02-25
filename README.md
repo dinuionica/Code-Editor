@@ -1,4 +1,4 @@
-## Code-EdITOR
+## Code-Editor
 
 A Javascript code editor created using the ACE library. 
 The editor supports any javascript syntax,runs and displays the results
